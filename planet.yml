@@ -1,0 +1,19 @@
+planet:
+    posts_directory: _posts/
+    templates_directory: _imported/
+    whitelisted_tags: []
+    # sanitize_html: true
+
+blogs:
+  - author: "Cate Lawrence"
+    feed:   "https://readwrite.com/author/cate-lawrence/feed/"
+    image:  "http://www.rss-specifications.com/rss-spec-rss.gif"
+    twitter: "poteland"
+    categories: "Cate writing readwrite"
+    layout: post
+  - author: "Cate Lawrence"
+    feed:   "https://www.momenta.partners/edge/author/cate-lawrence/rss.xml"
+    image:  "http://www.rss-specifications.com/rss-spec-rss.gif"
+    twitter: "poteland"
+    categories: "Cate writing momenta"
+    layout: post
