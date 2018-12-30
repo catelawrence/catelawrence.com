@@ -1,18 +1,7 @@
 ---
-layout: page
 title: About
-permalink: /about/
+image: /images/39298859_10155418921746249_2285109733197086720_o.jpg
 ---
+I'm an Australian based in Berlin.  I work as a tech journalist, specializing in a range of topics with an emphasis on IIoT, IoT, robotics, wearables, health tech, open source, blockchain, AI, cybersecurity and mobile apps. 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I also work with corporate clients and startup, writing and planning press releases, website copy, articles, presentations and in depth research.
