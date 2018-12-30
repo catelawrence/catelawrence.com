@@ -25,7 +25,6 @@ collections:
       - {label: "Tags", name: "tags", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Publication URL", name: "publication_url", widget: "string", required: false}
-collections:
   - label: "Pages"
     name: "pages"
     files:
