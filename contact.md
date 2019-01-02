@@ -1,5 +1,5 @@
 ---
-title: 'Contact '
+title: 'Contact me '
 image: /images/10307585.jpeg
 ---
-twar
+I'd love to talk about working with you, make a time to connect. 
