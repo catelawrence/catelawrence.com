@@ -113,7 +113,6 @@ pagination:
 
 header_pages:
   - about.md
-  - writing.md
   - portfolio.md
   - workwithme.md
   - contact.md
