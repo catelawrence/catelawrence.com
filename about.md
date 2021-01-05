@@ -1,7 +1,5 @@
 ---
 title: About
-image: /images/39298859_10155418921746249_2285109733197086720_o.jpg
+image: /images/typewriter-801921_1280.jpg
 ---
-I'm an Australian based in Berlin. I work as a tech journalist, specializing in a range of topics with an emphasis on IIoT, IoT, robotics, wearables, health tech, open source, blockchain, AI, cybersecurity and mobile apps.
-
-I also work with corporate clients and startups.
+### Cate Lawrence is a Berlin-based tech journalist, writer, and content strategist focused on IoT, mobility, smart cities, emerging technologies, and the relationship between people and tech.
