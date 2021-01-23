@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Physical and virtual worlds collide to transform car shopping
-date: 2021-01-23T15:42:09.181Z
+date: 2020-10-07T14:42:09.181Z
 image: /images/original-5-.jpg
 categories: mobility
 tags: "car retail "
