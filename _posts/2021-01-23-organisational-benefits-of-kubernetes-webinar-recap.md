@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Organisational Benefits of Kubernetes [Webinar Recap]
-date: 2021-01-23T15:54:13.739Z
+date: 2020-11-11T15:54:13.739Z
 image: /images/5faadce1e4c4c94dff07f2e1_organisational-benefits-of-kubernetes_blog-header.png
 categories: "developer tools "
 tags: "Kubernetes "
