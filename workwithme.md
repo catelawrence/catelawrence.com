@@ -2,6 +2,7 @@
 title: "Things I can help with "
 image: /images/keyboard-338502_1280.jpg
 ---
+I am able to provide a range of services based on your needs: 
 
 ## JOURNALIST SERVICES
 
@@ -12,6 +13,7 @@ image: /images/keyboard-338502_1280.jpg
 * Interviews across a variety of industries 
 
 * Provide access to a high-level network of contacts
+
 
 
 ## TECH ENTERPRISE
@@ -42,7 +44,10 @@ image: /images/keyboard-338502_1280.jpg
 
 * Whitepapers
 
+
 ## ARE YOU A STARTUP?
+
+Startups often need marketing materials - and fast - even before they've gone to market. I've worked with several startups to help create compelling marketing materials and help you communicate with potential customers, funders, and media.   
 
 * Blog posts 
 
