@@ -5,9 +5,13 @@ image: /images/pexels-cottonbro-4866041.jpg
 
 ## JOURNALIST SERVICES
 
-* Article writing
+* Pitch and generate story ideas 
 
-* Interviews 
+* Short and long-form article writing
+
+* Interviews across a variety of industries 
+
+* Provide access to a high-level network of contacts
 
 
 ## TECH ENTERPRISE
