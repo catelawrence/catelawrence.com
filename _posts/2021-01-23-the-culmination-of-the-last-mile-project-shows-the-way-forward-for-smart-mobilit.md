@@ -1,7 +1,7 @@
 ---
 layout: post
 title: " The culmination of the Last Mile Project shows the way forward for
-  smart mobilit"
+  smart mobility"
 date: 2020-05-22T14:11:21.745Z
 image: /images/original-2-.jpg
 categories: mobility
