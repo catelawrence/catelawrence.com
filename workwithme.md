@@ -1,11 +1,18 @@
 ---
 title: "Things I can help with "
-image: /images/pexels-cottonbro-4866041.jpg
+image: /images/keyboard-338502_1280.jpg
 ---
-\
-My writing typically involves both content authored under my name and ghostwritten: 
 
 ## JOURNALIST SERVICES
+
+* Pitch and generate story ideas 
+
+* Short and long-form article writing
+
+* Interviews across a variety of industries 
+
+* Provide access to a high-level network of contacts
+
 
 ## TECH ENTERPRISE
 
@@ -19,7 +26,9 @@ My writing typically involves both content authored under my name and ghostwritt
 
 * Ghostwriting on topics such as IoT, IIoT, cybersecurity, Kubernetes, and DevOps
 
-* Corporate interviews which can be reworked into cross-platformmarketing collateral
+* Corporate interviews which can be reworked into cross-platform marketing collateral
+
+* Case studies 
 
 * Company LinkedIn page and team lead bios (I can also turn an interview with your CXOs into articles for your CXOs pages
 
@@ -59,4 +68,4 @@ My writing typically involves both content authored under my name and ghostwritt
 
 * Investor decks
 
-( Write or edit guest posts and opinion pieces
+* Write or edit guest posts and opinion pieces
