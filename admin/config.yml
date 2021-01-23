@@ -27,6 +27,12 @@ collections:
       - {label: "Publication URL", name: "publication_url", widget: "string", required: false}
   - label: "Pages"
     name: "pages"
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}"
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
     files:
       - label: "About Page"
         name: "about"
