@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can blockchain tech create new mobility business models?
-date: 2021-01-23T16:51:45.357Z
+date: 2020-12-01T16:51:45.357Z
 image: /images/original-6-.jpg
 categories: mobility
 tags: "blockchain, P2P, "
