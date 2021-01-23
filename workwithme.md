@@ -1,6 +1,6 @@
 ---
 title: "Things I can help with "
-image: /images/pexels-cottonbro-4866041.jpg
+image: /images/keyboard-338502_1280.jpg
 ---
 
 ## JOURNALIST SERVICES
