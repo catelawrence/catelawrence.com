@@ -19,7 +19,7 @@ description: >- # Tech journalist, content creator, writer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cate_lawrence
-linked_username: lawrencecate
+linkedin_username: lawrencecate
 
 # Build settings
 markdown: kramdown
