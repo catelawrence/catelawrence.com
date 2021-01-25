@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The battle to secure autonomous vehicles under the sea
-date: 2021-01-25T17:35:59.806Z
+date: 2020-11-10T17:35:59.806Z
 image: /images/original-8-.jpg
 categories: "mobility, cybersecurity "
 tags: "cybersecurity, autonomous vehicles, autonomous vessels, "
