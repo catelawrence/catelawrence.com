@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is the impact of Covid-19 on the public transport sector?
-date: 2021-01-25T18:04:05.035Z
+date: 2020-03-19T18:04:05.035Z
 image: /images/original-13-.jpg
 categories: mobility
 tags: "COVID-19, mobility, public transport "
