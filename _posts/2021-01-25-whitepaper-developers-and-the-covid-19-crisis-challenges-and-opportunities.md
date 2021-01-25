@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Whitepaper:Developers and the COVID-19 crisis: Challenges and Opportunities"
-date: 2021-01-25T17:21:16.135Z
+date: 2020-06-01T16:21:16.135Z
 image: /images/screenshot-2021-01-25-at-18.22.31.jpeg
 categories: whitepaper
 tags: "COVID-19, developers "
