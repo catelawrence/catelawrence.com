@@ -40,7 +40,6 @@ However, while ALKS may seem a pretty mild upgrade of autonomous capabilities, i
 
 According to the UN's international standard, car manufacturers must introduce Driver Availability Recognition Systems to control both the driver's presence (on the driver's seats with the seat belt fastened) and the driver's availability to take back control. Vehicles also must be equipped with a Data Storage System for Automated Driving (DSSAD), which will record when ALKS is activated. Under the UN regulations, the driver is defined unavailable unless the driver fulfills two of these criteria: eye blinking, eye closure, conscious head or body movement over the last 30 seconds. If this is not the case, then the ALKS must remain in control.
 
-## 
 What will Automated Lane Keeping Systems mean to current driving regulations and laws?
 
 The UK recently put out a call for views on the safe use of ALKS on Great Britain's motorways. It posed numerous questions to answer to ready the laws and infrastructure for cars with active Level 3 capabilities:
@@ -51,5 +50,7 @@ The UK recently put out a call for views on the safe use of ALKS on Great Britai
 * **In the case of an accident:** The Government notes that the use of ALKS in practice may not allow a vehicle to avoid being the cause of a collision. For example, what if due to the driver failing to resume control on request by the vehicle, the vehicle comes to a stop in a live lane. This is unexpected behavior for other drivers, and the car is rear-ended by another vehicle. They suggest the driver should be incentivized to resume control in response to a transition demand. Should the driver fail to respond to the transition demand – and is not incapacitated – the Motorway Traffic Regulations would still apply, with the driver being potentially guilty of this offense.
 * **The use of entertainment systems:** ALKS might present the opportunity, for the first time ever in Great Britain, to enable the driver to perform activities other than driving when the ADS is engaged. Tesla cars are equipped with Caraoke, bringing a library of songs and lyrics to the car's center entertainment system since 2019. Volvo, GM, and Ford are installing larger display screens and partnering with Google and Apple to provide dashboard entertainment. All of these add-ons are huge in terms of subscription revenue models and as it's likely that it will be some time until we reach Level 4 let alone 5 in action, this is likely to post some pushback.
 * **The impact of OTA:** It is expected that many new cars sold in the UK will come equipped with Level 3 ALKS capabilities from Spring 2021. However, cars already sold equipped with the functionality will have it turned up - what will this mean for their insurance status and current registration as non-autonomous vehicles? How to account for the changes in status if the functionality is switched off?
+
+
 
 What's clear is that the introduction of ALKS will be a huge learning curve and the opportunity to debate, tweak, and expand current legal and regulatory infrastructure. The whole mobility community will be watching with interest in this prequel of things to come.
